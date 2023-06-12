@@ -40,4 +40,3 @@
     "traceLog": null,
     "configurationRoot": "src"
 }
-}
